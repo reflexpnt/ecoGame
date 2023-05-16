@@ -20,7 +20,9 @@ The name we'll use when crediting you on the Loak app <br> <br>
 The email we'll use to coordinate paying you <br> <br>
 
 **Description**: `EcogameAR is a game that combines the functionality of the ARDK package seen in the SoballToss project by ARvoyage with the functionality of image tracking recognition. The aim of the game linked to the separate collection of waste is to hit the correct waste bin with the rubbish associated with it that appears randomly.` <br>
-Short description of the experience <br> <br>
+Short description of the experience. <br> <br>
+The images for tracking can be found at \Assets\Resources
+
 
 **Video Link**:  `https://youtu.be/MBmzzKiTwAE` <br>
 Very useful in accelerating the review process <br>
