@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1a0c2a5f89748a697be31a5763b45b, type: 3}
+  m_Name: _DevSettings
+  m_EditorClassIdentifier: 
+  skipSplashWait: 0
+  skipARWarning: 0
+  releaseBuildDebugMenu: 0
+  skipVPSIntro: 0
+  clearPersistentDataOnPlay: 0
+  vpsStartStateOverride: 0
+  mockUserLatLongInEditor:
+    lat_degrees: 0
+    lng_degrees: 0
+  overrideMockUserLatLongWithFirstMockAsset: 0
+  mockVpsAssets: []
+  skipToSnowballFightMainInEditor: 0
